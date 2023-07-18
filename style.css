@@ -1,0 +1,15 @@
+.slight_round{
+    border-radius: 25%;
+}
+.round{
+    border-radius: 50%;
+}
+.carousel_image_resizer{
+    object-fit: contain;
+}
+.carousel_header_changer{
+    background-color: brown;
+}
+.turn_white{
+    color: white;
+}
